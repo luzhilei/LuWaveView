@@ -30,3 +30,5 @@
  
  
  5，通过CADisplayLink  改变offset 让波浪动起来
+ 
+ ![image](https://github.com/luzhilei/LuWaveView/blob/master/LuWaveView/Assets.xcassets/wave.imageset/wave.png)
